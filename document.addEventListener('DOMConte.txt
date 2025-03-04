@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded', function() {
+    // Optional: Display a welcome alert when the page loads
+    alert("Welcome to the Smart Parking System!");
+});
