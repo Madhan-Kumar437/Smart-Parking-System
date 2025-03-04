@@ -1,1 +1,67 @@
-# Smart-Parking-System
+# Smart-Parking-System<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Parking System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Smart Parking System</h1>
+        <p><strong>Team:</strong> Madhankumar (Project Head), Pavanlal (Lead Developer), Gowtham (IoT Specialist), Kamaleshnee (Designer)</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#timeline">Timeline</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Smart Parking System</h2>
+        <p>The Smart Parking System is designed to optimize parking space usage and make the parking experience more efficient using modern technology.</p>
+    </section>
+
+    <section id="about">
+        <h2>About the Project</h2>
+        <p>The Smart Parking System aims to provide real-time parking availability updates, automated payment systems, and efficient parking space management using IoT (Internet of Things) and sensor technologies. This project is designed to reduce the time spent searching for parking spots and help cities better manage parking resources.</p>
+    </section>
+
+    <section id="timeline">
+        <h2>Project Timeline</h2>
+        <p>Our project is divided into several key phases:</p>
+        <ul>
+            <li><strong>Phase 1:</strong> Research and Planning (Jan 2025 - Feb 2025)</li>
+            <li><strong>Phase 2:</strong> Design and Development (Mar 2025 - Jun 2025)</li>
+            <li><strong>Phase 3:</strong> Testing and Deployment (Jul 2025 - Sep 2025)</li>
+            <li><strong>Phase 4:</strong> Feedback and Optimization (Oct 2025 - Dec 2025)</li>
+        </ul>
+    </section>
+
+    <section id="team">
+        <h2>Meet the Team</h2>
+        <p>Our team consists of professionals from various domains who are committed to making the Smart Parking System a success:</p>
+        <ul>
+            <li><strong>Madhankumar:</strong> Project Head</li>
+            <li><strong>Pavanlal:</strong> Lead Developer</li>
+            <li><strong>Gowtham:</strong> IoT Specialist</li>
+            <li><strong>Kamaleshnee:</strong> Designer</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you have any questions or would like to get involved, feel free to reach out:</p>
+        <p>Email: <a href="mailto:contact@smartparkingsystem.com">contact@smartparkingsystem.com</a></p>
+        <p>Phone: +1 (123) 456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Smart Parking System. All rights reserved.</p>
+    </footer>
+</body>
+</html>
